@@ -1,0 +1,16 @@
+# !/bin/bash
+rm /home/pi/xiaolan/xiaolan/xldo.pyc
+rm /home/pi/xiaolan/xiaolan/speaker.pyc
+rm /home/pi/xiaolan/xiaolan/recorder.pyc
+rm /home/pi/xiaolan/xiaolan/snowboy.pyc
+rm /home/pi/xiaolan/xiaolan/nlp.pyc
+rm /home/pi/xiaolan/xiaolan/stt.pyc
+rm /home/pi/xiaolan/xiaolan/tts.pyc
+rm /home/pi/xiaolan/xiaolan/skills/joke.pyc
+rm /home/pi/xiaolan/xiaolan/skills/smarthome.pyc
+rm /home/pi/xiaolan/xiaolan/skills/camera.py
+rm /home/pi/xiaolan/xiaolan/skills/weather.pyc
+rm /home/pi/xiaolan/xiaolan/skills/raspberrypi_gpio.pyc
+rm /home/pi/xiaolan/xiaolan/skills/music.pyc
+rm /home/pi/xiaolan/xiaolan/skills/snowboytrain.pyc
+rm /home/pi/xiaolan/xiaolan/skills/xlonly.pyc
